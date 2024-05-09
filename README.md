@@ -16,3 +16,8 @@ Together, these steps form the OSEMN model (which is pronounced as awesome).
 
 ### Books  
 [Thinking with Data](https://www.amazon.com/Thinking-Data-Turn-Information-Insights/dp/1449362931)  
+
+### Docker Image
+    docker pull datasciencetoolbox/dsatcl2e  
+    docker run --rm -it datasciencetoolbox/dsatcl2e  
+    docker run --rm -it -v "$(pwd)":/data datasciencetoolbox/dsatcl2e  
