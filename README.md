@@ -1,4 +1,4 @@
-# Data Science3 at the Command Line
+# Data Science at the Command Line
 
 ## Definition of Data Science
 
