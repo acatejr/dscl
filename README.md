@@ -1,5 +1,7 @@
 # Data Science at the Command Line
 
+https://jeroenjanssens.com/dsatcl/
+
 ## Definition of Data Science
 
 The field of data science is still in its infancy, and as such, there exist various definitions of what it encompasses. Throughout this book I employ a very practical definition by [Hilary Mason and Chris H. Wiggins](https://jeroenjanssens.com/dsatcl/chapter-1-introduction#ref-Mason2010). They define data science according to the following five steps:  
