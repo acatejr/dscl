@@ -18,6 +18,9 @@ Together, these steps form the OSEMN model (which is pronounced as awesome).
 
 [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)  
 [Classic Shell Scripting](https://amzn.to/3yo7nLp)  
+[Luigi](https://github.com/spotify/luigi)  
+[Apache Airflow](https://airflow.apache.org/)  
+[Nextflow](https://www.nextflow.io/)  
 
 ### Books  
 [Thinking with Data](https://www.amazon.com/Thinking-Data-Turn-Information-Insights/dp/1449362931)  
